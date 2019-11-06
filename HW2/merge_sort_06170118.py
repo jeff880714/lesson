@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 class Solution():
     def mergeList(leftList, rightList):
          if len(leftList) == 0:#如果list只有一個值，直接回傳 
@@ -30,9 +24,4 @@ class Solution():
 output=Solution().merge_sort([-2,61,85,-55,94,46,69,83,75])
 output
 
-
-# In[ ]:
-
-
-
-
+#https://newaurora.pixnet.net/blog/post/224658923-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95---%E4%BD%BF%E7%94%A8python
