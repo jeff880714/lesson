@@ -1,1 +1,1 @@
-2者在best,average與worst case的時間複雜度都是NlogN 
+##**2者在best,average與worst case的時間複雜度都是NlogN**## 
