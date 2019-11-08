@@ -1,4 +1,4 @@
-cclass Solution():
+class Solution():
     def mergeList(self,left, right):
          if len(left) == 0:#如果list只有一邊有值，直接回傳 
              return right
@@ -8,7 +8,6 @@ cclass Solution():
              return [left[0]] + self.mergeList(left[1:], right)
          if left[0] >= right[0]: #與上一段相反
              return [right[0]] + self.mergeList(left, right[1:])
-
     def merge_sort(self,nums):
          if len(nums)<=1:#如果list只有一個值，直接回傳 
              return nums
