@@ -46,5 +46,9 @@ class MyHashSet:
                 return True
             node =node.next
         return False
-#參考資料:https://kite.com/python/examples/2084/crypto-generate-a-new-md5-hash
-#        https://www.nosuchfield.com/2016/07/29/the-python-implementationp-of-HashTable/
+#參考資料:
+#https://kite.com/python/examples/2084/crypto-generate-a-new-md5-hash
+#https://www.nosuchfield.com/2016/07/29/the-python-implementationp-of-HashTable/
+#https://blog.kdchang.cc/2016/09/23/javascript-data-structure-algorithm-dictionary-hash-table/
+#https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view
+#https://ithelp.ithome.com.tw/articles/10208884
