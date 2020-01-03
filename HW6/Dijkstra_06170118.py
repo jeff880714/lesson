@@ -47,3 +47,5 @@ class Graph():
         return answer
 #參考資料:https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
 #        https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+#        http://dreamisadream97.pixnet.net/blog/post/168577620-dijkstra%E6%BC%94%E7%AE%97%E6%B3%95
+#        https://sites.google.com/site/zsgititit/home/jin-jiec-cheng-shi-she-ji-2/zui-xiao-sheng-cheng-shu
